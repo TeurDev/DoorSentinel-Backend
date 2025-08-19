@@ -1,6 +1,6 @@
 # DoorSentinel Backend 
 
-<a href="README_en.md"> <img src="https://img.shields.io/badge/EN-English Version here-red?style=for-the-badge" alt="EN"> </a>
+<a href="README.md"> <img src="https://img.shields.io/badge/EN-English Version here-red?style=for-the-badge" alt="EN"> </a>
 
 ## 📝 Descripción  
 Servidor backend para el sistema de seguridad **DoorSentinel**. Construido con **Node.js**, **Express** y **MongoDB**, gestiona autenticación, dispositivos, grupos, eventos y notificaciones para los usuarios.  
