@@ -3,11 +3,11 @@
 <a href="README_es.md"> <img src="https://img.shields.io/badge/ES-Versión en Español aquí-blue?style=for-the-badge" alt="ES222"> </a>
 
 ## 📝 Description  
-Backend server for the **DoorSentinel** security system. Built with **Node.js**, **Express**, and **MongoDB**, it manages authentication, devices, groups, events, and user notifications.  
+Backend server for the **[DoorSentinel](https://github.com/TeurDev/DoorSentinel)** security system. Built with **Node.js**, **Express**, and **MongoDB**, it manages authentication, devices, groups, events, and user notifications.  
 
 
 ## 📖 Detailed Description  
-The **DoorSentinel Backend** is responsible for all the core logic, data handling, and communication between IoT devices (ESP32) and the mobile application.  
+The **[DoorSentinel](https://github.com/TeurDev/DoorSentinel) Backend** is responsible for all the core logic, data handling, and communication between IoT devices (ESP32) and the mobile application.  
 
 It is developed with **Node.js** and **Express**, using **MongoDB** as a non-relational database.  
 
