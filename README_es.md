@@ -3,10 +3,10 @@
 <a href="README.md"> <img src="https://img.shields.io/badge/EN-English Version here-red?style=for-the-badge" alt="EN"> </a>
 
 ## 📝 Descripción  
-Servidor backend para el sistema de seguridad **DoorSentinel**. Construido con **Node.js**, **Express** y **MongoDB**, gestiona autenticación, dispositivos, grupos, eventos y notificaciones para los usuarios.  
+Servidor backend para el sistema de seguridad **[DoorSentinel](https://github.com/TeurDev/DoorSentinel)**. Construido con **Node.js**, **Express** y **MongoDB**, gestiona autenticación, dispositivos, grupos, eventos y notificaciones para los usuarios.  
 
 ## 📖 Descripción Detallada  
-El **Backend de DoorSentinel** es responsable de toda la lógica central, el manejo de datos y la comunicación entre los dispositivos IoT (ESP32) y la aplicación móvil.  
+El **Backend de [DoorSentinel](https://github.com/TeurDev/DoorSentinel)** es responsable de toda la lógica central, el manejo de datos y la comunicación entre los dispositivos IoT (ESP32) y la aplicación móvil.  
 
 Está desarrollado con **Node.js** y **Express**, utilizando **MongoDB** como base de datos no relacional.  
 
